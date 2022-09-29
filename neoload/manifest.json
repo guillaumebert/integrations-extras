@@ -2,7 +2,7 @@
   "manifest_version": "2.0.0",
   "app_uuid": "3d16e6da-7ac2-47b4-95c0-0d221686f05a",
   "app_id": "neoload",
-  "display_on_public_website": false,
+  "display_on_public_website": true,
   "tile": {
     "overview": "README.md#Overview",
     "configuration": "README.md#Setup",
@@ -35,7 +35,7 @@
     },
     "dashboards": {
       "NeoLoad Performance Testing": "assets/dashboards/neoload_overview.json"
-    }
+    },
     "monitors": {},
     "logs": {},
     "saved_views": {}
