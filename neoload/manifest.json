@@ -41,10 +41,10 @@
     "saved_views": {}
   },
   "author": {
-    "support_email": "support@tricentis.com",
+    "support_email": "",
     "name": "Tricentis",
     "homepage": "https://www.tricentis.com/products/performance-testing-neoload",
-    "sales_email": "support@tricentis.com"
+    "sales_email": ""
   },
   "oauth": {}
 }
