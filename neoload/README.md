@@ -13,9 +13,8 @@ With the NeoLoad integration, you can track performance metrics of NeoLoad tests
 
 ### Configuration
 
-The Datadog agent is not needed to use the integration.
-For the detailed instructions on NeoLoad configuration, follow the [NeoLoad documentation][2].
-Additionally, the first time Datadog detects the NeoLoad.Controller.User.Load metric, the NeoLoad integration tile is installed automatically, and the default NeoLoad dashboard is added to your dashboard list.
+For detailed instructions on NeoLoad configuration, follow the [NeoLoad documentation][2].
+When Datadog receives `NeoLoad.*` metrics, the NeoLoad integration tile is installed automatically, and the default NeoLoad dashboard is added to your dashboard list.
 
 ![NeoLoad Dashboard][7]
 
