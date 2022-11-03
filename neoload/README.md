@@ -31,7 +31,7 @@ NeoLoad does not include any service checks.
 
 ### Events
 
-All NeoLoad performance tests events are sent to your [Datadog Event Stream][4].
+All NeoLoad performance tests events are sent to your [Datadog Events Explorer][4].
 NeoLoad send events to Datadog via the API when a performance test starts and ends.
 
 ## Troubleshooting
