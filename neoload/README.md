@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Tricentis NeoLoad][1] simplifies and scales performance testing for everything, from APIs and microservices, to end-to-end application testing through innovative protocol and browser-based capabilities.
+[Tricentis NeoLoad][1] simplifies and scales performance testing for APIs and microservices, as well as end-to-end application testing through protocol and browser-based capabilities.
 
 With the NeoLoad integration, you can track performance metrics of NeoLoad tests to:
 
